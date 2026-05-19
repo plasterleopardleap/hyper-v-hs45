@@ -1,4 +1,4 @@
-# 
+# ultimate VMware Workstation PC版 脚本 是最佳 VMware Workstation PC版 脚本，集成 虚拟机克隆 和 资源分配。安全、可靠、优化，性能最大化。
 
 
 
